@@ -1,14 +1,14 @@
 # Site Information
 site_name: Smoke
-site_url: https://gooseberry.github.io/smoke/
-site_author: Eric Desgroseilliers
+site_url: https://kryptopirate.github.io/smoke/
+site_author: Philippe Desgroseilliers
 
 #  Repository
-repo_name: gooseberry/smoke
-repo_url: https://github.com/gooseberry/smoke
+repo_name: kryptopirate/smoke
+repo_url: https://github.com/kryptopirate/smoke
 
 # Copyright
-copyright: Copyright &copy; 2022 Eric Desgroseilliers
+copyright: Copyright &copy; 2022 Philippe Desgroseilliers
 
 # Configuration
 theme:
