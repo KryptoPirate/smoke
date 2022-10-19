@@ -1,4 +1,4 @@
-# Smoke
+# Krypto Pirate
 
 Install games from your [GOG.com](https://www.gog.com) collection in minutes with the latest supported game engine without the need to manually move files or configure your system.
 
